@@ -2,4 +2,11 @@
 
 body {
     font-family: Roboto Flex;
+    font-size: 2em;
+    background-color: white;
+}
+
+header {
+    background-color: lightblue;
+
 }
